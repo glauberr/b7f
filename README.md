@@ -1,5 +1,6 @@
-# b7f
+# b7freelacrm
+
+Projeto legal de um sistema de gestão COMPLETO para freelancers.
 
 
-
-Projeto teste CRM
+1 teste de atualizacao
